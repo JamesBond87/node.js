@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+h1 {
+    font-size: 350%;
+    width:700px;
+    margin: 0 auto;
+    color: rgb(224, 218, 236);
+    text-align: center;
+  }
+
+  img {
+    display: inline-block;
+    margin: 35px 20px; 
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
